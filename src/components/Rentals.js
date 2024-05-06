@@ -8,7 +8,6 @@ import house6 from "../assets/house6.png";
 import house7 from "../assets/house7.jpg";
 import house8 from "../assets/house8.jpg";
 import house9 from "../assets/house9.jpg";
-import house10 from "../assets/house10.jpg";
 import house11 from "../assets/house10.jpg";
 import house12 from "../assets/house12.jpg";
 import house13 from "../assets/house13.jpg";
